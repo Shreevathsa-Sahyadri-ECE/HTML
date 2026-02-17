@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+<header>
+    <p><h2><B>Shreevathsa A P </B></h2></p>
+    <p>full stack developer& core knowledge gainer</p>
+     <br>
+     <ul>
+    <li><a href="edu.html">Education</a></li>
+    <br>
+     
+    <li><a href="project.html" >Project</a></li>
+    <br>
+     
+    <li><a href="experience.html">Experience</a></li>
+</ul>
+
+    </header>
+    <hr>
+    <main>
+        <H3>About me</H3>
+        <P>i am Dedicated personal develop committed to delivering high-quality results and contributing to team success.</P>
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACUCAMAAAA9M+IXAAAAM1BMVEVHR0cAAABKSkpERERAQEAzMzM3NzcvLy8ZGRkPDw87OzsnJycSEhIjIyMVFRUeHh4ICAhK7kd4AAAD9klEQVR4nO2cjZarKgyFNaAI/r7/0x6mHTvacaqQsOGu69cX2IsVd0ISWlU3Nzc3Nzc3Nzc3N8FQbgGXoEq5tjH96Ol70zqtilVOlTNjt9QblmHuW0XFKaaKtJl2Ul+S7dwWdsSk3HwkdcUaXY5gHwXjJ7FlCSY1HkbBG0NThl5zQeuDyeWW6r+w0zjYRkRutW66rtbTZzU1aoPEemaVUW4Tqrauu3wO0VxxhHcGlUdveCR8n28WveTi1GaKXz3Eyq37DHI/FgkntOhwoJ6htq41WK1mqa1HrFxWKHiWFqo2Ij/smZDuoDqu3BpZTkYmiC0Wp5bCyrBjcMcbnc+2dCi1FFCR/411mOMlZSXk1qCrBbFd7EkH8jJe/n2xYDKxYma0Fw1ELqNy3DNCvrU25spzxASRK/SleRBqr3dtToFYg5AxeBB3eDFjqGtIXuMXjyuQGl1OLqQo+9/Khdzf5T41SOzKGRmkmy7ouwi5/7GsJnANfmIhJY6TufvU9QyRK9ATeQK6rEl9a5gxm9TVcgJ1TbXMdQLVQyeR4F1QLXSZaEC1Gbw3SESDwXVMJRIbsB+t+R3THjn8YR/vAh0FKu7xYjcbYufBKzhb+NbL817snMqjOXUZ9Dt7QC7efGFjiS3R7jBkWRiJnagsoBnKL6Ku8NnUVirifG3GZb1wveBR+xsU+L3l+co2tCHpeMyt1ueLyx/cYnKu6L1oriW4PPtjvyHVnwues35jbzjzWXDXFnK0K6r5e5jZ6yKCdgeRNvPwXvfYaSztYF9QpVvTj91kF2ttN4+mcaVqfaGeaFVeBNzgKT1cH1CltP56UOV/zddjqlJjl0hpZ/p577zLNHtn0KWdNam2/224q+92o9FU0BMwPdqTO/HSNYW4rzIX94hGlzuSqXJ9wNLTbLIeMakxsJEzYRbHDlExXRGbp+j1ZhDZIhszvFkLeqT2fsD4dh5v8gN+FKi5Q9YF2DonLTAE7FGeRjILm6iAkFoVgYxYmQ+TwHoF1Xq9yXOcpNo6+WxNWG3aKXZoK/cK6TrpUistb3pTyRVbkN+Raq7CGlJ+INEjZ4knX4ckGWaLm8IPCRae0gTuN9L2QGLPZo6RDge5fehDZAfwaRx3i2Q2piqRh/1gJbchE7rCiuAmr9h28Sfk+g8iz1bPmKTUirwJPkeolpRZfj1HaPcYdLhSZpY4Q/xgJXIbY1ksFInoBXjuysKXm7i22cNuPKS4Tf4Nu1AX+duIy7Dvbcx/kwmFea8Q7TFdYOBFg0J+aF+wCh3Ohm4cvP8igvrCA040CL4OvwrHeqE54gnnDybE3lReZ4hXi6wXVhbGhAVUmO+IL8vAKe3JZyv7B1uaMrifRbZQAAAAAElFTkSuQmCC" height="150" alt="personal image"> 
+    <h3>Work Experience</h3>
+
+    <p>jan 2024-Present</p>
+    <p><b>ISRO Intern</b></p>
+    <p>
+        <ul><li>
+            learned about the satlite
+            </li>
+            <li>
+                hands on ecperience
+            </li>
+            <li>
+                worked on the phython
+            </li>
+        </ul>
+    </p>
+       <section id="contact">
+            <h2>Contact Me</h2>
+            <form>
+                <fieldset>
+                    <legend>Send a Message</legend>
+                    <label for="name">Name:</label><br>
+                    <input type="text" id="name" name="name" required><br><br>
+
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email"><br><br>
+
+                    <label for="msg">Message:</label><br>
+                    <textarea id="msg" name="msg" rows="4"></textarea><br><br>
+
+                    <button type="submit">Submit Information</button>
+                </fieldset>
+            </form>
+        </section>
+    </main>
+ 
+        <P>click here for linkdin profile</P>
+        <a href="https://www.linkedin.com/in/shreevathsa-ap-84114526a?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://i.pinimg.com/736x/c0/44/d1/c044d19025e6939e49af34610e2694d7.jpg" height="100"> </a>
+        </main>
+        <hr>
+<FOOTER>
+    <P>@ 2026 Shreevathsa.Built with HTML</P>
+</FOOTER>
+    
+
+</body>
+</html>
